@@ -84,7 +84,6 @@ MacBookPro16,2
 
 - [ ] Fingerprint sensor - Touch ID cannot be simulated but I am trying to find an alternative
 
-- [ ] Changing display brightness with function keys (only command s / b)
 ## Additional Notes
 
 - How to hackintosh: https://dortania.github.io/OpenCore-Install-Guide/
